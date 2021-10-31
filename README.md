@@ -1,6 +1,7 @@
 # Myapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
+It is a basic angular spa application with front side rendering with bootstrap 
 
 ## Development server
 
